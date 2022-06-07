@@ -134,6 +134,7 @@ In this video, we will create a simple spinning loader in CSS that will be displ
 Resources
 
 -   [Create a CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
+-   [![Netlify Status](https://api.netlify.com/api/v1/badges/d4f0c3d7-6962-4f44-ac42-2a500e9f4067/deploy-status)](https://app.netlify.com/sites/sawaal/deploys)
 
 ## 13. Closing
 
