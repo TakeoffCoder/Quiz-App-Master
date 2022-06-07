@@ -1,5 +1,6 @@
 # Quiz-App-Master
 # Build a Quiz App with HTML, CSS, and JavaScript
+https://sawaal.netlify.app/
 
 ![Home Screen](cover.png)
 
